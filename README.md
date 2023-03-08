@@ -1,8 +1,8 @@
-### Hi there I am Vince👋
+### Hello I'm Moon!
 
-I know Java and i'm learning C# & C++. I want to get more into game hacking and general use of both languages
+I'm currently learning how to code in C++ and Java. The langauges I already know are C# and Python. I've been coding for around 2 years now and I got into coding from just seeing how interesting it is and what you could make with coding langauges.
 
-If you need to contact me, add me on discord Vince#7777
+If you need to contact me, add me on Discord Moon#6364
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moonpvp-dev&theme=dark&show_icons=true)
 
@@ -11,17 +11,3 @@ If you need to contact me, add me on discord Vince#7777
     <img src="https://komarev.com/ghpvc/?username=moonpvp-dev" alt="Profile Views">
   </p>
 </a>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
