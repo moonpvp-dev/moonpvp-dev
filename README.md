@@ -6,9 +6,9 @@ I'm currently learning how to code in C++ and Java. The langauges I already know
 
 <details>
   <summary> - 📫 My Contacts:</summary>
-  <a href="https://twitter.com/zebraticyt">Twitter</a><br>
-  <a href="https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg">Youtube</a><br>
-  <a href="https://discord.com/users/811372110157053953">Discord</a><br>
+  <a href="https://twitter.com/themoonpvp">Twitter</a><br>
+  <a href="https://www.youtube.com/channel/UCWIzUflWpqR-iih5oaoLqPg">Youtube</a><br>
+  <a href="https://discord.com/users/599984435705675777">Discord</a><br>
  
 </details>
 
